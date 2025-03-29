@@ -1,0 +1,13 @@
+Features
+
+Easily add new tasks with descriptions.
+Mark those tasks which have been completed to keep track of progress.
+Display all tasks with clear indicators showing which tasks are complete or pending.
+Error handling to ensure a smooth user experience.
+Project Structure
+
+'Task' class whichshows invidual tasks with attributes like descriptions and status.
+'Main' class using 'public static void main(String[] args)' method. Initialized and user interactions are handled.
+Requirement
+
+Java SE 8** or later
